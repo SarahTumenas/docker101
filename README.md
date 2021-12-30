@@ -4,7 +4,7 @@
 
 Neste curso, foram abordados os seguintes tópicos:
 
-- VM e COntainer
+- VM e Container
 - Arquitetura do Docker
 - Criando o primeiro container com Play with Docker
 - Docker Desktop
