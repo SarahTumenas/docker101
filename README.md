@@ -1,6 +1,6 @@
 # docker101
 
-## Repositório de estudos do curso de Introdução a Orquestração de contâineres com Docker
+## Repositório de estudos do curso de Introdução a Orquestração de contêineres com Docker
 
 Neste curso, foram abordados os seguintes tópicos:
 
